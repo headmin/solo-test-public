@@ -1,1 +1,3 @@
-# Test
+# Solo Test Project
+
+A demo project.
